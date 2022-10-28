@@ -7,32 +7,32 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "DB60F45E-6F33-45EA-BF2F-5F00212B1114"
+            uuid = "1DFE277F-3082-422E-ABD1-7F1892A836C7"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Sample/TabBarController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "99"
-            endingLineNumber = "99"
-            landmarkName = "tabBar(_:didSelect:)"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "addTabBarItems()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "97BA3428-7C00-4965-868A-1D119A5C70D7"
+            uuid = "4FF3DFCD-09C5-46A5-8ECE-1E7FBB03B8DF"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Sample/TabBarController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "79"
-            endingLineNumber = "79"
-            landmarkName = "animate(_:)"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "addTabBarItems()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

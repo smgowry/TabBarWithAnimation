@@ -44,7 +44,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FAu-Vb-ppx" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-287" y="504"/>
+            <point key="canvasLocation" x="-912" y="-224"/>
         </scene>
         <!--View Controller3-->
         <scene sceneID="CKS-ni-CUh">
@@ -68,7 +68,55 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="QV8-Q6-3iE" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-288" y="1280"/>
+            <point key="canvasLocation" x="-249" y="-224"/>
+        </scene>
+        <!--View Controller4-->
+        <scene sceneID="PMH-mp-t4b">
+            <objects>
+                <viewController storyboardIdentifier="ViewController4" id="NdF-FI-LIa" customClass="ViewController4" customModule="Sample" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="jso-pb-yq8">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="View Four" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GtH-DR-cri">
+                                <rect key="frame" x="121" y="318" width="129" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="GwP-j1-SpV"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Vys-xu-4gN" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="442.02898550724643" y="-224.33035714285714"/>
+        </scene>
+        <!--View Controller5-->
+        <scene sceneID="OFi-6R-Ofg">
+            <objects>
+                <viewController storyboardIdentifier="ViewController5" id="1Sg-aT-sx4" customClass="ViewController5" customModule="Sample" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ma3-Ko-RjD">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="View Five" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hHk-aM-jQp">
+                                <rect key="frame" x="155" y="337" width="129" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Xce-Gh-bvt"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="TsV-up-AtM" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1138" y="-224"/>
         </scene>
         <!--View Controller1-->
         <scene sceneID="a6U-zM-1wg">
@@ -89,13 +137,10 @@
                         <viewLayoutGuide key="safeArea" id="uiM-wm-xxc"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <connections>
-                        <outlet property="labeltitle" destination="5fX-MK-iLu" id="Dg2-Cq-nkG"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3XZ-Jc-rL6" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-288" y="-180"/>
+            <point key="canvasLocation" x="-1593" y="-224"/>
         </scene>
     </scenes>
     <resources>
